@@ -82,7 +82,7 @@ option {
 }
 .img-map {
     transition: transform .2s;
-    border: 1px solid #332e2e;
+    border: 1px solid #ffffff;
     padding: 7px;
     border-radius: 50%;
 }
